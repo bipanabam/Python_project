@@ -1,0 +1,1 @@
+shift = shift % 26
